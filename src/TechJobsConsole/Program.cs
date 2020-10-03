@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-// This is  my first submission.
+// This is  my second submission.
 namespace TechJobsConsole
 {
     class Program
